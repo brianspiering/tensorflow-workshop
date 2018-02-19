@@ -1,5 +1,7 @@
 A Hands-on Introduction to TensorFlow
 =====
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brianspiering/tensorflow-workshop/master)
+
 
 Abstract
 -----
