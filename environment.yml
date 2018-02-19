@@ -1,0 +1,12 @@
+name: tf
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python == 3.6
+  - ipython
+  - jupyter
+  - tensorflow == 1.4
+  - keras >= 2
+  - rise
+  - pip
